@@ -23,3 +23,6 @@ An immense mausoleum of white marble, built in Agra between 1631 and 1648 by ord
 * Proper accomodation is required in Delhi
 * Personal vehicle is suggested to cover all the places.
 * Enough liquid cash must be carried.
+
+Link of my personal Info [AboutMe](https://github.com/Abhinavbellamkonda/assignment2-Bellamkonda/blob/main/AboutMe.md)
+
