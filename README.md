@@ -50,11 +50,12 @@ In the table i will describe the food items location and price of the item
 
 ## Code Fencing
 
-> Discription: The modification is extremely simple: In the previous article we chosen a vertex with excess without any particular rule. But it turns out, that if we always choose the vertices with the greatest height, and apply push and relabel operations on them, then the complexity will become better. Moreover, to select the vertices with the greatest height we actually don't need any data structures, we simply store the vertices with the greatest height in a list, and recalculate the list once all of them are processed (then vertices with already lower height will be added to the list), or whenever a new vertex with excess and a greater height appears (after relabeling a vertex).<br> <br>
+Discription: 
+> The modification is extremely simple: In the previous article we chosen a vertex with excess without any particular rule. But it turns out, that if we always choose the vertices with the greatest height, and apply push and relabel operations on them, then the complexity will become better. Moreover, to select the vertices with the greatest height we actually don't need any data structures, we simply store the vertices with the greatest height in a list, and recalculate the list once all of them are processed (then vertices with already lower height will be added to the list), or whenever a new vertex with excess and a greater height appears (after relabeling a vertex).<br> <br>
 
-Despite the simplicity, this modification reduces the complexity by a lot. To be precise, the complexity of the resulting algorithm is O(VE+V2E−−√), which in the worst case is O(V3).<br><br>
+> Despite the simplicity, this modification reduces the complexity by a lot. To be precise, the complexity of the resulting algorithm is O(VE+V2E−−√), which in the worst case is O(V3).<br><br>
 
-This modification was proposed by Cheriyan and Maheshwari in 1989.
+> This modification was proposed by Cheriyan and Maheshwari in 1989.
 
 Here is the link: <br>
 <https://cp-algorithms.com/graph/push-relabel-faster.html>
