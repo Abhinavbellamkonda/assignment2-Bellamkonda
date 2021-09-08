@@ -37,3 +37,11 @@ In the table i will describe the food items location and price of the item
 | Manchuria | Ameerpet | 30Rs/- |
 | Chicken Kurma | Patha Basti | 300/- |
 | Haleem | Old City | 250/- |
+
+---
+
+## Pithy Quotes
+
+> “I saw that you were perfect, and so I loved you. Then I saw that you were not perfect and I loved you even more.” <br> — *Angelita Lim*
+
+> “I love you for all that you are, all that you have been and all that you will be.” <br> — *Abhinav Bellamkonda*
