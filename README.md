@@ -26,3 +26,14 @@ An immense mausoleum of white marble, built in Agra between 1631 and 1648 by ord
 
 Link of my personal Info [AboutMe](https://github.com/Abhinavbellamkonda/assignment2-Bellamkonda/blob/main/AboutMe.md)
 
+---
+
+## List of food/drinks I wish you will enjoy if you try
+In the table i will describe the food items location and price of the item
+
+| Food | Place | cost |
+| ---| ---| ---: |
+| Keema Biryani | Hyderabad | 450Rs/- |
+| Manchuria | Ameerpet | 30Rs/- |
+| Chicken Kurma | Patha Basti | 300/- |
+| Haleem | Old City | 250/- |
